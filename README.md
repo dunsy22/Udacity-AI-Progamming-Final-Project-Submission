@@ -1,2 +1,2 @@
-# Udacity_AI Python NanoDegree proj_submission
- 
+# Udacity_AI Python NanoDegree Final Project
+In this project, we train an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice you'd train this classifier, then export it for use in your application. We'll be using this dataset of 102 flower categories, and a pre-trained VGG16 CNN. 
